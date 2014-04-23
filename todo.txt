@@ -1,0 +1,32 @@
+
+
+***** Form ********
+Generar javascript para validar
+
+
+
+***** Pages ******
+Layout
+Controladores
+
+
+**** scripts ****
+proyecto basico
+proyectod desde base de datos
+base de datos desde proyecto
+
+--- Dependency Inyector ---
+pasar la construccion de todos los objetos del framework ahi (Todo) 
+
+
+<<<<<<< .mine
+dep::instance("
+objeto = new package.folder.classname();
+  
+  
+  
+=======
+***** DB *********
+FKs e inyeccion de datos en formularios. (Combos / predictores)
+
+>>>>>>> .r46
